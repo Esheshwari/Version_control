@@ -1,6 +1,6 @@
-# 🚀 GitHub Clone - Project Complete!
+#  GitHub Clone - Project Complete!
 
-## ✅ What I've Built For You
+##  What I've Built For You
 
 A **fully functional GitHub clone** with:
 
@@ -27,20 +27,20 @@ A **fully functional GitHub clone** with:
 
 ---
 
-## 📍 Current Status
+##  Current Status
 
 | Component | Status | Location |
 |-----------|--------|----------|
-| Backend API | ✅ Running | http://localhost:3002 |
-| Frontend App | ✅ Running | http://localhost:5174 |
-| MongoDB | ⏳ Pending | Needs IP whitelist |
-| Auth System | ✅ Ready | JWT tokens working |
-| Repos | ✅ Ready | CRUD ready |
-| Issues | ✅ Ready | CRUD ready |
+| Backend API |  Running | http://localhost:3002 |
+| Frontend App |  Running | http://localhost:5174 |
+| MongoDB |  Pending | Needs IP whitelist |
+| Auth System |  Ready | JWT tokens working |
+| Repos |  Ready | CRUD ready |
+| Issues |  Ready | CRUD ready |
 
 ---
 
-## 🎯 One Thing Left: MongoDB IP Whitelist
+##  One Thing Left: MongoDB IP Whitelist
 
 ### The Problem
 Your MongoDB cluster won't accept connections until your computer's IP is whitelisted.
@@ -56,7 +56,7 @@ That's it! MongoDB will then connect automatically.
 
 ---
 
-## 🗂️ File Structure
+##  File Structure
 
 ```
 d:\Version Control\
@@ -96,7 +96,7 @@ d:\Version Control\
 
 ---
 
-## 💡 How to Use
+##  How to Use
 
 ### Creating an Account
 1. Go to http://localhost:5174
@@ -118,7 +118,7 @@ d:\Version Control\
 
 ---
 
-## 🛠️ Restart Commands
+##  Restart Commands
 
 **Backend:**
 ```powershell
@@ -134,7 +134,7 @@ npm run dev
 
 ---
 
-## 🔐 Default Security Settings
+##  Default Security Settings
 
 - Passwords: Hashed with bcryptjs (salt rounds: 10)
 - Tokens: JWT (1 hour expiration)
@@ -143,7 +143,7 @@ npm run dev
 
 ---
 
-## 📊 What Happens When You Sign Up
+##  What Happens When You Sign Up
 
 1. **Frontend** sends username, email, password to `/signup`
 2. **Backend** hashes password, saves to MongoDB
@@ -154,7 +154,7 @@ npm run dev
 
 ---
 
-## 🚨 Troubleshooting
+##  Troubleshooting
 
 **Q: MongoDB not connecting?**  
 A: Add your IP to Atlas whitelist (see MONGODB_FIX.md)
@@ -170,7 +170,7 @@ A: Kill the process: `taskkill /PID <pid> /F`
 
 ---
 
-## 📝 API Reference Quick Start
+## API Reference Quick Start
 
 ### Sign Up
 ```bash
@@ -211,7 +211,7 @@ Content-Type: application/json
 
 ---
 
-## 🎊 You're All Set!
+##  You're All Set!
 
 Your GitHub Clone is **complete and running**. The app is fully functional. Just fix MongoDB (2 minutes) and you're completely done!
 
@@ -219,5 +219,6 @@ Your GitHub Clone is **complete and running**. The app is fully functional. Just
 
 ---
 
-Made with ❤️ for your GitHub Clone project  
-All code is production-ready and follows best practices.
+## Set-up
+<img width="1775" height="954" alt="Screenshot 2026-02-07 232523" src="https://github.com/user-attachments/assets/167c12b7-a254-4afd-8b3b-0e402970e49e" />
+
