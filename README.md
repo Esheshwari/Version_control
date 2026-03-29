@@ -220,5 +220,6 @@ Your GitHub Clone is **complete and running**. The app is fully functional. Just
 ---
 
 ## Set-up
-<img width="1775" height="954" alt="Screenshot 2026-02-07 232523" src="https://github.com/user-attachments/assets/167c12b7-a254-4afd-8b3b-0e402970e49e" />
+![Version_control](https://github.com/user-attachments/assets/e7f478d8-c17d-40c2-84a7-1dadd683c1f6)
+
 
